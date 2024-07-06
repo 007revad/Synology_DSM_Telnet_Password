@@ -1,6 +1,6 @@
 ## All my scripts
 
-**Contents**
+#### Contents
 - [Plex](#plex)
 - [Synology docker](#synology-docker)
 - [Synology recovery](#synology-recovery)
@@ -25,6 +25,8 @@
   - Sync your main Plex server database & metadata to a backup Plex server.
   - Works for Synology, Asustor, Linux and supports Plex package or Plex in docker.
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
+
 ### Synology docker
 
 - **<a href="https://github.com/007revad/Synology_ContainerManager_IPv6">Synology_ContainerManager_IPv6</a>**
@@ -39,6 +41,8 @@
 - **<a href="https://github.com/007revad/Synology_docker_cleanup">Synology_docker_cleanup</a>**
   - Remove orphan docker btrfs subvolumes and images in Synology DSM 7 and DSM 6.
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
+
 ### Synology recovery
 
 - **<a href="https://github.com/007revad/Synology_DSM_reinstall">Synology_DSM_reinstall</a>**
@@ -52,6 +56,8 @@
 
 - **<a href="https://github.com/007revad/Synology_DSM_Telnet_Password">Synology_DSM_Telnet_Password</a>**
   - Synology DSM Recovery Telnet Password of the Day generator.
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
 ### Other Synology scripts
 
@@ -69,6 +75,8 @@
 
 - **<a href="https://github.com/007revad/Synology_Cleanup_Coredumps">Synology_Cleanup_Coredumps</a>**
   - Cleanup memory core dumps from crashed processes.
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
 
 ### Synology hardware restrictions
 
@@ -97,6 +105,8 @@
 - **<a href="https://github.com/007revad/Synology_enable_sequential_IO">Synology_enable_sequential_IO</a>**
   - Enables sequential I/O for your SSD caches, like DSM 6 had.
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
+
 ### Synology dev
 
 - **<a href="https://github.com/007revad/Download_Synology_Archive">Download_Synology_Archive</a>**
@@ -104,3 +114,5 @@
 
 - **<a href="https://github.com/007revad/ScriptNotify">ScriptNotify</a>**
   - DSM 7 package to allow your scripts to send DSM notifications.
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Back to Contents](#contents)
