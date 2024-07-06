@@ -2,8 +2,8 @@
 
 - [Plex](#plex)
 - [Synology docker](#synology-docker)
-- [Synology recoveryText](#synology-recovery)
-- [Synology scripts](#synology-scripts)
+- [Synology recovery](#synology-recovery)
+- [Other Synology scripts](#other-synology-scripts)
 - [Synology hardware restrictions](#synology-hardware-restrictions)
 - [Synology dev](#synology-dev)
 
@@ -51,7 +51,7 @@
 - **<a href="https://github.com/007revad/Synology_DSM_Telnet_Password">Synology_DSM_Telnet_Password</a>**
   - Synology DSM Recovery Telnet Password of the Day generator.
 
-### Synology scripts
+### Other Synology scripts
 
 - **<a href="https://github.com/007revad/Synology_app_mover">Synology_app_mover</a>**
   - Easily move Synology packages from one volume to another volume.
