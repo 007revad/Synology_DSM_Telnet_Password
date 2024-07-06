@@ -9,7 +9,7 @@ If a blank password or 101-0101 does not work you need to either contact Synolog
 <br>
 
 Script on Windows with WSL
-<p align="left"><img src="images/windows.png"></p>
+<p align="left"><img src="images/windows2.png"></p>
 
 <br>
 
