@@ -1,4 +1,16 @@
-## My other scripts
+## All my scripts
+
+[Plex](#plex)
+
+[Synology docker](link)
+
+[Synology recoveryText](link)
+
+[Synology scripts](link)
+
+[Synology hardware restrictions(link)
+
+[Synology dev(link)
 
 ### Plex
 
