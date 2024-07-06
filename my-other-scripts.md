@@ -1,16 +1,11 @@
 ## All my scripts
 
-[Plex](#plex)
-
-[Synology docker](link)
-
-[Synology recoveryText](link)
-
-[Synology scripts](link)
-
-[Synology hardware restrictions(link)
-
-[Synology dev(link)
+- [Plex](#plex)
+- [Synology docker](#synology-docker)
+- [Synology recoveryText](#synology-recovery)
+- [Synology scripts](#synology-scripts)
+- [Synology hardware restrictions](#synology-hardware-restrictions)
+- [Synology dev](#synology-dev)
 
 ### Plex
 
