@@ -14,4 +14,4 @@ Script on Windows with WSL
 <br>
 
 Script on Synology NAS
-<p align="left"><img src="images/dsm.png"></p>
+<p align="left"><img src="images/dsm2.png"></p>
