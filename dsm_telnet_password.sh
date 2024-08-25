@@ -40,7 +40,7 @@ Options:
                   Day must be numeric. e.g. --day=24
       --month=    Set the month to calculate password from
                   If --month= is used you must also use --day=
-                  Month must be numeric. e.g. --month=09
+                  Month must be numeric. e.g. --month=9
   -h, --help      Show this help message
   -v, --version   Show the script version
 
