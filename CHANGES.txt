@@ -1,0 +1,6 @@
+v1.0.2
+- Changed to allow specifying the day and month.
+- Bug fix for when run run on a Synology and the day or month is padded with a 0.
+
+v1.0.1
+- First release.
