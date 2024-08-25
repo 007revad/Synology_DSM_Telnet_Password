@@ -25,3 +25,8 @@ Script on Windows with WSL
 
 Script on Synology NAS
 <p align="left"><img src="images/dsm2.png"></p>
+
+<br>
+
+v1.0.2 run with --day and --month options
+<p align="left"><img src="images/options.png"></p>
