@@ -14,6 +14,25 @@ If a DSM update fails the boot loader will enable telnet to make it possible to 
 
 If a blank password or 101-0101 does not work you need to either contact Synology Support for the 'password of the day', or you can run this script which will show you the 'password of the day'.
 
+The script can run on a Synology NAS or any computer or NAS that has bash.
+
+### Options
+
+You can run the script with --day=X and --month=Y to get the telnet password for day X of month Y.
+```
+Usage: dsm_telnet_password.sh [options]
+
+Options:
+      --day=      Set the day to calculate password from
+                  If --day= is used you must also use --month=
+                  Day must be numeric. e.g. --day=24
+      --month=    Set the month to calculate password from
+                  If --month= is used you must also use --day=
+                  Month must be numeric. e.g. --month=9
+  -h, --help      Show this help message
+  -v, --version   Show the script version
+```
+
 ### Screen shots
 
 <br>
